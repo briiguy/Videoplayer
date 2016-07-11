@@ -1,0 +1,28 @@
+#buttonWrapper {
+			
+			height:360px;
+			width:640px;
+			text-align:center;
+  
+    }		
+    #playerWrapper{
+			display:none;
+		}
+		.btn {
+      top:155px;
+      position:relative;
+			background-color:rgba(55,66,74,0.4);
+			-webkit-border-radius: 8;
+			-moz-border-radius: 8;
+			border-radius: 8px;
+			font-family: Rock Salt;
+			color: #ffffff;
+			font-size: 24px;
+			padding: 10px 20px 10px 20px;
+			text-decoration: none;
+      border: 3px solid #fff;
+		}
+
+		.btn:hover {
+			background-color:rgba(55,66,74,0.6);
+		}
